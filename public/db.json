@@ -1,0 +1,19 @@
+
+[
+  {
+    "username": "johndoe",
+    "name": "John Doe",
+    "bio": "Software Engineer and Tech Enthusiast",
+    "location": "New York, USA",
+    "occupation": "Software Developer",
+    "interests": ["Programming", "Music", "Traveling"]
+  },
+  {
+    "username": "janedoe",
+    "name": "Jane Doe",
+    "bio": "Graphic Designer and Artist",
+    "location": "San Francisco, USA",
+    "occupation": "Designer",
+    "interests": ["Art", "Photography", "Cooking"]
+  }
+]
